@@ -43,8 +43,7 @@ Project Bot Share Discord is programmed by iiShadow.
 
 You can connect with the bot developer and follow them on various social media platforms:
 
-- [Instagram](https://www.instagram.com/mohamed_gamer_38/)
-- [Threads](https://www.threads.net/@mohamed_gamer_38)
+- [Instagram](https://www.instagram.com/m7md_js2/)
 - [Discord](https://discord.com/users/1091118468155314306)
 
 Feel free to follow or reach out to them through these platforms.
